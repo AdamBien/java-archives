@@ -1,4 +1,4 @@
-# java-archives
+# ☕️ Java Archives
 A collection of IDEs, servers and interesting projects
 
 
