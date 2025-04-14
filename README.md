@@ -163,5 +163,3 @@ A collection of IDEs, servers and interesting projects
 - [Vim](https://www.vim.org/)
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [XEmacs](https://www.xemacs.org/)
-
-
